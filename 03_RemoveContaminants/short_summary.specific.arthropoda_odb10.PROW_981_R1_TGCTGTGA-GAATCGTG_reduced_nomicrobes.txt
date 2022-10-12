@@ -1,0 +1,19 @@
+# BUSCO version is: 5.2.2 
+# The lineage dataset is: arthropoda_odb10 (Creation date: 2020-09-10, number of genomes: 90, number of BUSCOs: 1013)
+# Summarized benchmarking in BUSCO notation for file /scrfs/storage/amatthews/20210816_projects/20210816_snp/02_IndexRef/ref_full/scaffolds_reduced_contigs_kept.fasta
+# BUSCO was run in mode: genome
+# Gene predictor used: metaeuk
+
+	***** Results: *****
+
+	C:87.9%[S:86.7%,D:1.2%],F:3.9%,M:8.2%,n:1013	   
+	890	Complete BUSCOs (C)			   
+	878	Complete and single-copy BUSCOs (S)	   
+	12	Complete and duplicated BUSCOs (D)	   
+	40	Fragmented BUSCOs (F)			   
+	83	Missing BUSCOs (M)			   
+	1013	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.1
+	metaeuk: 5.34c21f2
