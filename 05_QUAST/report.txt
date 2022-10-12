@@ -1,0 +1,24 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                    scaffolds_reduced_contigs_kept_NCBI_200000000.fsa
+# contigs (>= 0 bp)         2399                                             
+# contigs (>= 1000 bp)      2399                                             
+# contigs (>= 5000 bp)      2398                                             
+# contigs (>= 10000 bp)     1491                                             
+# contigs (>= 25000 bp)     613                                              
+# contigs (>= 50000 bp)     276                                              
+Total length (>= 0 bp)      59665063                                         
+Total length (>= 1000 bp)   59665063                                         
+Total length (>= 5000 bp)   59661590                                         
+Total length (>= 10000 bp)  53163946                                         
+Total length (>= 25000 bp)  39292836                                         
+Total length (>= 50000 bp)  27465648                                         
+# contigs                   2399                                             
+Largest contig              462516                                           
+Total length                59665063                                         
+GC (%)                      39.99                                            
+N50                         43948                                            
+N75                         18291                                            
+L50                         327                                              
+L75                         869                                              
+# N's per 100 kbp           2.98                                             

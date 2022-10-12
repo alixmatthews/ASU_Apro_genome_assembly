@@ -1,0 +1,8 @@
+# BLASTN 2.11.0+
+# Query: MH208456.1 Trouessartia rubecula mitochondrion, complete genome
+# Database: /scrfs/storage/amatthews/20210816_projects/20221012_finalgenome/BLASTn/databases/PROW981R1_NCBI
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+MH208456.1	lcl|NODE_1111_length_14126_cov_40.320942	76.826	7720	1486	233	1	7556	2619	10199	0.0	4065
+MH208456.1	lcl|NODE_1111_length_14126_cov_40.320942	76.488	1344	289	22	12794	14125	1290	2618	0.0	706
+# BLAST processed 1 queries

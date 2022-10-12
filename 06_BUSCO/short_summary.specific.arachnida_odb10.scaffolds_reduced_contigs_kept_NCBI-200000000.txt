@@ -1,0 +1,19 @@
+# BUSCO version is: 5.2.2 
+# The lineage dataset is: arachnida_odb10 (Creation date: 2020-08-05, number of genomes: 10, number of BUSCOs: 2934)
+# Summarized benchmarking in BUSCO notation for file /scrfs/storage/amatthews/20210816_projects/20221012_finalgenome/IndexRef/PROW981R1_NCBI/scaffolds_reduced_contigs_kept_NCBI-200000000.fsa
+# BUSCO was run in mode: genome
+# Gene predictor used: metaeuk
+
+	***** Results: *****
+
+	C:93.4%[S:91.7%,D:1.7%],F:1.8%,M:4.8%,n:2934	   
+	2740	Complete BUSCOs (C)			   
+	2691	Complete and single-copy BUSCOs (S)	   
+	49	Complete and duplicated BUSCOs (D)	   
+	52	Fragmented BUSCOs (F)			   
+	142	Missing BUSCOs (M)			   
+	2934	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.1
+	metaeuk: 5.34c21f2
