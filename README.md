@@ -2,6 +2,8 @@
 
 - Steps needed from preprocessed reads obtained from sequencing facility to NCBI-deposited genome
 
+Associated manuscript: TBD
+
 ---
 ---
 
