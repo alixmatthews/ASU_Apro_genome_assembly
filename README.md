@@ -2,7 +2,7 @@
 
 - Steps needed from preprocessed reads obtained from sequencing facility to NCBI-deposited genome
 
-Associated manuscript: Matthews, A.E., T.J. Boves, K.L. Percy, and A.J. Wijeratne. 2022. Draft genome sequencing data of a feather mite, Amerodectes protonotaria Hernandes 2018 (Acariformes: Proctophyllodidae). Data in Brief. doi: 10.1016/j.dib.2022.108835.
+Associated manuscript: Matthews, A.E., T.J. Boves, K.L. Percy, and A.J. Wijeratne. 2022. Draft genome sequencing data of a feather mite, Amerodectes protonotaria Hernandes 2018 (Acariformes: Proctophyllodidae). Data in Brief. doi: https://doi.org/10.1016/j.dib.2022.108835
 
 
 ---
